@@ -168,7 +168,7 @@
                                 jcr:primaryType="nt:unstructured"
                                 jcr:title="Page Content"
                                 sling:resourceType="wcm/core/components/policy/policy"
-                                components="[group:Core Content,group:Core Form,group:Core Structure,/apps/deere-poc/components/poc/content/productdetail,/apps/deere-poc/components/poc/content/productteaser]"
+                                components="[group:Core Content,group:Core Form,group:Core Structure,/apps/deere-poc/components/poc/content/productdetail]"
                                 layout="responsiveGrid"
                                 layoutDisabled="false">
                                 <jcr:content jcr:primaryType="nt:unstructured"/>
