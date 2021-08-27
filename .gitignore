@@ -84,4 +84,8 @@ buildNumber.properties
 node_modules
 npm-debug.log
 
-aem-site-template-basic-*.zip
+aem-site-template-deere-*.zip
+
+site/target/
+theme/dist
+theme/node_modules

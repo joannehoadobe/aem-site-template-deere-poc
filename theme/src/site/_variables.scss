@@ -1,19 +1,19 @@
 //== Font
 
-$font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $font-family-title: 'Source Serif Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-$font-size: 16px;
-$font-height: 20px;
+$font-size: 17px;
+$font-height: 26px;
 //20px
 
 //== Color
 
-$color-foreground: #202020;
-$color-background: #ffffff;
-$color-link: #2020e0;
-$accent: #2954ff;
-$accent-focus: #436eff;
-$accent-hover: #103be6;
+$color-foreground: #333;
+$color-background: #d5d5d5;
+$color-link: #367c2b;
+$accent: #367c2b;
+$accent-focus: #367c2b;
+$accent-hover: #367c2b;
 $text: #000000;
 $text-on-background: #ffffff;
 $grey-bar: #eaebeb;
@@ -27,7 +27,13 @@ $error-hover: #be1e26;
 $success: #268e6c;
 $success-hover: #0d7553;
 $transparent: rgba(0, 0, 0, 0);
+$white-background: #ffffff;
+$color-lighter-background: #f4f3f3;
+$color-active-link: #666;
+$color-hover-link: #333;
 
 //== Grid
 
 $max_col: 12;
+
+$max-width: 1366px;

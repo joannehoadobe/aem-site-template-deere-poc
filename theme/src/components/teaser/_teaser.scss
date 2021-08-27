@@ -1,3 +1,14 @@
+.teaser-main-content {
+  max-height: 400px;
+  overflow: hidden;
+  position: relative;
+  transition: all 1s ease-in-out;
+  width: 100%;
+  max-width: $max-width;
+  padding: 0;
+  margin: 0 auto;
+  float: none !important;
+}
 .cmp-teaser {
   position: relative;
 }
